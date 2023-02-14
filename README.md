@@ -1,2 +1,2 @@
 # xmmx-bahamas
-Bahama Mama's Script
+[QB] Bahama Mama's Script Version Checker
